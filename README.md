@@ -1,6 +1,6 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# Entity Attestation Token (EAT) Profile for Autonomous AI Agents
 
 This is the working area for the individual Internet-Draft, "Entity Attestation Token (EAT) Profile for Autonomous AI Agents".
 
