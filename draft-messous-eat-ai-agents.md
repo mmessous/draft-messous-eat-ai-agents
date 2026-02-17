@@ -8,13 +8,14 @@ submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
-v: 3
+v: 1
 # area: SEC
-# workgroup: WG Working Group
+# workgroup: RATS
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - AI Agents
+ - Entity Attestation Token (EAT)
+ - RATS
+ - Trust
 venue:
 #  group: WG
 #  type: Working Group
